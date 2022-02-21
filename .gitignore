@@ -1,3 +1,7 @@
+# files to ignore
+Supervised_Machine_Learning_and_Credit_Risk
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
